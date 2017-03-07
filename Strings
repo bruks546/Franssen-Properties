@@ -20,4 +20,15 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    
+    <!-- Strings for Menu -->
+    <string name="my_account">My Account</string>
+    <string name="favorites">Favorites</string>
+    <string name="rent_calculator">Rent Calculator</string>
+    <string name="apply">Apply</string>
+    <string name="conract_us">Contact Us</string>
+    <string name="about">About</string>
+    <string name="feedback">Feedback</string>
+    <string name="action_settings">Settings</string>
+
 </resources>
