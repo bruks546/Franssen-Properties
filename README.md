@@ -1,6 +1,11 @@
 
 # Franssen-Properties
 This is going to be the layout of the activities in Franssen Properties app. 
+
+
+This are the pics that I would be using.  I will need more but I will get them later. 
+https://goo.gl/photos/S2SfrDPyx1JbRWDu9
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -170,4 +175,5 @@ This is going to be the layout of the activities in Franssen Properties app.
         android:layout_marginTop="15dp" />
 
 </RelativeLayout>
+
 
